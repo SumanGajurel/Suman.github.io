@@ -198,7 +198,7 @@ languages:
 awards:
   - title: 'Soil Judging Competition'
     url: https://www.soilscienceaustralia.org.au/news/soil-judging/ 
-    date: '2022-12-3'
+    date: '2022-12-03'
     awarder: Soil Science Australia
     icon: SSA
     summary: |
