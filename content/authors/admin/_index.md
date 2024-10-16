@@ -54,10 +54,11 @@ education:
     date_start: 2021-07-12
     date_end: 2024-07-11
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      This PhD thesis focuses on developing predictive models for soil physical and chemical properties across Australian grain-growing regions. The research first creates a framework using the APSIM model, crop yield data, and farm management information to predict Plant Available Water Capacity (PAWC) with good accuracy. It also applies machine learning models, including Random Forest (RF), Cubist (CU), and others, to predict soil properties like pH, EC, and ESP, with RF proving most effective. The thesis highlights the potential of these models as cost-effective alternatives to traditional lab measurements. Future work emphasizes the need for user-friendly tools to facilitate the practical application of these models.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
+
   - area: MSc Dryland Agricultural Systems
     institution: Curtin University, Perth, WA
     country: Australia
