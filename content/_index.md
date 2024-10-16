@@ -17,7 +17,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download my CV (pdf)
-        url: uploads/Suman.pdf
+        url: https://github.com/SumanGajurel/Suman.github.io/blob/main/content/Suman.pdf?raw=true
     design:
       css_class: dark
       background:
