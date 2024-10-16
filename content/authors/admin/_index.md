@@ -3,15 +3,11 @@
 title: SUMAN GAJUREL
 
 # Name pronunciation (optional)
-name_pronunciation: Suman Gajurel
+name_pronunciation:
 
 # Full name (for SEO)
 first_name: Suman
 last_name: Gajurel
-
-# Status emoji
-status:
-  icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
@@ -53,7 +49,7 @@ interests:
 
 education:
   - area: PhD Soil and Crop Modelling
-    institution: University of Southern Queensland
+    institution: University of Southern Queensland, Toowoomba, QLD
     country: Australia
     date_start: 2021-07-12
     date_end: 2024-07-11
@@ -63,7 +59,7 @@ education:
       text: 'Read Thesis'
       url: 'https://example.com'
   - area: MSc Dryland Agricultural Systems
-    institution: Curtin University
+    institution: Curtin University, Perth, WA
     country: Australia
     date_start: 2019-02-15
     date_end: 2021-02-15
@@ -74,7 +70,7 @@ education:
       - Advanced Statistics for Agriculture
 
   - area: BSc (Honours) Agricultural  Sciences
-    institution: HICAST - Purbanchal University
+    institution: HICAST - Purbanchal University, Nepal
     country: Nepal
     date_start: 2012-07-15
     date_end: 2017-10-07
@@ -221,4 +217,4 @@ awards:
 
 ## About Me
 
-I (Suman Gajurel) am  a agricultural scientist with a PhD in modelling and diagnosing soil constraints from the University of Southern Queensland. My expertise spans soil and crop modelling, machine learning, digital soil mapping, geospatial analysis, and sustainable agriculture. I have contributed to several research projects focused on improving soil health, crop production, and farm management. With experience in leading interdisciplinary research, and working with agricultural systems like APSIM, I have a passion for innovative agricultural solutions that enhance productivity and sustainability.
+I am  a agricultural scientist with a PhD in modelling and diagnosing soil constraints from the University of Southern Queensland. My expertise spans soil and crop modelling, machine learning, digital soil mapping, geospatial analysis, and sustainable agriculture. I have contributed to several research projects focused on improving soil health, crop production, and farm management. With experience in leading interdisciplinary research, and working with agricultural systems like APSIM, I have a passion for innovative agricultural solutions that enhance productivity and sustainability.
