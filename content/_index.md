@@ -17,7 +17,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download my CV (pdf)
-        url: uploads/resume.pdf
+        url: uploads/Suman_Gajurel.pdf
     design:
       css_class: dark
       background:
