@@ -216,6 +216,6 @@ awards:
       I learned how to utilize remote sensing data for agricultural monitoring, particularly focusing on drought and crop assessment. The webinar equipped participants with the knowledge to evaluate regions of the world where agricultural productivity is above or below long-term trends, thereby informing decisions related to market stability..
 ---
 
-## About Me
+## Hello!
 
 I am  a agricultural scientist with a PhD in modelling and diagnosing soil constraints from the University of Southern Queensland. My expertise spans soil and crop modelling, machine learning, digital soil mapping, geospatial analysis, and sustainable agriculture. I have contributed to several research projects focused on improving soil health, crop production, and farm management. With experience in leading interdisciplinary research, and working with agricultural systems like APSIM, I have a passion for innovative agricultural solutions that enhance productivity and sustainability.
