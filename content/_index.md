@@ -43,32 +43,6 @@ sections:
       columns: 2
     style:
       css_class: row-layout featured-publications
-      css_style: "/* General row layout for publications */
-.row-layout {
-  display: flex;
-  align-items: center; /* Centers items vertically */
-  justify-content: space-between; /* Aligns title left, content right */
-}
-
-/* Specific styling for title and content in Featured and Recent Publications */
-.featured-publications .content,
-.recent-publications .content {
-  display: flex;
-  flex-direction: row;
-  align-items: center;
-}
-
-.featured-publications .content .title,
-.recent-publications .content .title {
-  flex: 0 0 auto;
-  margin-right: 20px; /* Space between title and content */
-}
-
-.featured-publications .content,
-.recent-publications .content {
-  flex: 1; /* Ensures content takes up remaining space */
-}
-"
   - block: collection
     content:
       title: Recent Publications
