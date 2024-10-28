@@ -41,6 +41,9 @@ sections:
     design:
       view: article-grid
       columns: 2
+    style:
+      title_alignment: left
+      content_aligment: right
   - block: collection
     content:
       title: Recent Publications
