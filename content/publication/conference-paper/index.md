@@ -18,7 +18,10 @@ abstract: Soil chemical properties are crucial for farm management but tradition
 summary: This study used a Cubist machine learning model to predict key soil chemical properties, achieving moderate to good accuracy, offering a faster, cost-effective alternative to traditional soil analysis for better farm management decisions.
 
 tags:
-- APSIM, Cubist, Soil chemical properties, Soil constraints
+- APSIM
+- Cubist
+- Soil chemical properties
+- Soil constraints
 
 featured: true
 

@@ -42,8 +42,7 @@ sections:
       view: article-grid
       columns: 2
     style:
-      title_alignment: left
-      content_aligment: right
+      css_class: row-layout featured-publications
   - block: collection
     content:
       title: Recent Publications
@@ -97,5 +96,30 @@ sections:
       card:
         # Card background color (CSS class)
         css_class: "bg-primary-700"
-        css_style: ""
+        css_style: "/* General row layout for publications */
+.row-layout {
+  display: flex;
+  align-items: center; /* Centers items vertically */
+  justify-content: space-between; /* Aligns title left, content right */
+}
+
+/* Specific styling for title and content in Featured and Recent Publications */
+.featured-publications .content,
+.recent-publications .content {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.featured-publications .content .title,
+.recent-publications .content .title {
+  flex: 0 0 auto;
+  margin-right: 20px; /* Space between title and content */
+}
+
+.featured-publications .content,
+.recent-publications .content {
+  flex: 1; /* Ensures content takes up remaining space */
+}
+"
 ---
