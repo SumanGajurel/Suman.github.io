@@ -27,7 +27,7 @@ summary: This study leverages machine learning models to predict critical soil c
 
 tags:
 - Soil chemical properties, machine learning, soil constraints
-featured: false
+featured: true
 
 # links:
 # - name: ""
