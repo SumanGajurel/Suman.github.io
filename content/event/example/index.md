@@ -1,28 +1,28 @@
 ---
-title: Example Talk
+title: Soil CRC Conference - Wagga Wagga, NSW (2024) Talk
 
-event: Hugo Blox Builder Conference
-event_url: https://example.org
+event: Soil CRC Participants Conference 2024
+event_url: https://soilcrc.com.au/events/
 
-location: Hugo Blox Builder HQ
+location: CSU Convention Centre, Wagga Wagga
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+  street: 186 Pine Gully Rd
+  city: Wagga Wagga
+  region: NSW
+  postcode: '2678'
+  country: Australia
 
-summary: An example talk using Hugo Blox Builder's Markdown slides feature.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+summary: Modelling and diagnosing soil constraints using readily available datasets
+abstract: 'Effective soil management is critical for sustainable agriculture, yet traditional methods for assessing soil properties are costly and time-consuming. This talk explores the use of process based model and machine learning to predict essential soil physical and chemical properties, such as plant availabel water capacity (PAWC), exchangeable sodium percentage (ESP) and chloride levels, using readily availabel datasets. I will compare the predictive performance of several models, highlighting how the chosen approach provides a cost-effective solution for accurate soil properties prediction. Attendees will gain insights into model selection and application to identify soil constraints which provides informed farm management decisions, relevant to both research and on-ground agricultural practices."'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
+date: '2024-08-28T14:50:00Z'
+date_end: '2024-08-28T15:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2024-08-27T00:00:00Z'
 
 authors:
   - admin
@@ -41,10 +41,10 @@ image:
 #    icon_pack: fab
 #    name: Follow
 #    url: https://twitter.com/georgecushen
-url_code: 'https://github.com'
+url_code: ''
 url_pdf: ''
 url_slides: 'https://slideshare.net'
-url_video: 'https://youtube.com'
+url_video: ''
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
